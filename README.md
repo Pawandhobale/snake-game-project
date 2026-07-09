@@ -1,12 +1,12 @@
 # 🐍 Snake Game Project
 
-A fun and interactive Snake Game built using **HTML**, **CSS**, and **JavaScript**.
+A classic Snake Game built using **HTML**, **CSS**, and **JavaScript** with an attractive user interface and real-time score tracking.
 
-This project recreates the classic Snake Game experience with a modern UI, colorful game board, animated gameplay, and score tracking system.
+This project recreates the traditional snake game experience where the player controls the snake, collects food to increase the score, and avoids collisions to survive as long as possible.
 
 ## 🌐 Live Demo
 
-🚀 Play the game here:
+🎮 Play Here:
 
 https://pawandhobale.github.io/snake-game-project/
 
@@ -14,29 +14,31 @@ https://pawandhobale.github.io/snake-game-project/
 
 ## 📸 Project Preview
 
-![Snake Game Screenshot](./screenshot.png)
+![Snake Game Preview](./snake-game-preview.png)
+
+> If your screenshot file has a different name, replace `snake-game-preview.png` with the actual filename.
 
 ---
 
 ## ✨ Features
 
-- 🎮 Classic Snake Gameplay
-- 📈 Real-time Score Tracking
+- 🐍 Classic Snake Gameplay
+- 📈 Real-Time Score Tracking
 - 🍎 Random Food Generation
-- ⚡ Smooth Keyboard Controls
-- 🎨 Attractive UI Design
-- 🖼 Custom Background Graphics
-- 💻 Fully Browser Based
+- 🎮 Keyboard Controls
+- 🎨 Attractive User Interface
+- ⚡ Smooth Gameplay Experience
+- 🌐 Browser-Based Game
 - 📱 Lightweight and Fast
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-| Technology | Usage |
-|------------|-------|
+| Technology | Purpose |
+|------------|---------|
 | HTML5 | Structure |
-| CSS3 | Styling and UI |
+| CSS3 | Styling |
 | JavaScript | Game Logic |
 
 ---
@@ -45,10 +47,10 @@ https://pawandhobale.github.io/snake-game-project/
 
 | Key | Action |
 |-----|--------|
-| ⬆️ Arrow Up | Move Up |
-| ⬇️ Arrow Down | Move Down |
-| ⬅️ Arrow Left | Move Left |
-| ➡️ Arrow Right | Move Right |
+| ⬆️ Up Arrow | Move Up |
+| ⬇️ Down Arrow | Move Down |
+| ⬅️ Left Arrow | Move Left |
+| ➡️ Right Arrow | Move Right |
 
 ---
 
@@ -60,15 +62,15 @@ snake-game-project/
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
+├── snake-game-preview.png
 └── README.md
 ```
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Run Locally
 
-### Clone the Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/Pawandhobale/snake-game-project.git
@@ -80,7 +82,7 @@ git clone https://github.com/Pawandhobale/snake-game-project.git
 cd snake-game-project
 ```
 
-### Run
+### Run Application
 
 Simply open:
 
@@ -94,26 +96,26 @@ in your browser.
 
 ## 📚 Concepts Used
 
-This project helped in understanding:
+This project demonstrates:
 
 - DOM Manipulation
 - Event Handling
 - Keyboard Events
+- Collision Detection
+- Dynamic Score Updates
 - JavaScript Functions
 - Arrays and Objects
-- Collision Detection
 - Game Loop Logic
-- Dynamic UI Updates
 
 ---
 
 ## 🔮 Future Improvements
 
-- High Score System using Local Storage
-- Pause and Resume Feature
+- High Score using Local Storage
+- Pause and Resume Functionality
 - Difficulty Levels
 - Sound Effects
-- Mobile Controls
+- Mobile Touch Controls
 - Restart Button
 
 ---
@@ -124,14 +126,11 @@ This project helped in understanding:
 
 Java Backend Developer | Spring Boot | Java | JavaScript | React
 
-GitHub:
+GitHub Profile:
 https://github.com/Pawandhobale
-
-LinkedIn:
-(Add your LinkedIn profile here)
 
 ---
 
 ## ⭐ Support
 
-If you like this project, please give it a ⭐ on GitHub.
+If you found this project useful, please consider giving it a ⭐ on GitHub.
